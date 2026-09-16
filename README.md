@@ -1,6 +1,6 @@
 # Power-Network Disruption Prediction: Evaluating Local Network Topology
 
-## 1. Project Title & Description
+## 1. Project Title and Short Description
 Title: *Power-Network Disruption Prediction*  
 This project investigates whether incorporating local network topological properties into standard machine learning models improves the prediction of future disruptions in a stylized power transmission network, compared to relying solely on intrinsic substation attributes.
 
